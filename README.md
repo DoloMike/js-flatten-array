@@ -2,16 +2,11 @@
 function that flattens an array of arbitrarily nested arrays
 
 ## Installation
-`git clone https://github.com/DoloMike/js-flatten-array.git`  
-`cd js-flatten-array`  
-`yarn` or `npm i`
-
 ```bash
 git clone https://github.com/DoloMike/js-flatten-array.git
 cd js-flatten-array
 ```
 `yarn` or `npm i`
-
 
 ## Testing
 `yarn test` or `npm run test`
