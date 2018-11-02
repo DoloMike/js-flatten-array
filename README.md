@@ -7,7 +7,7 @@ function that flattens nested arrays of arbitrary nesting levels
 `yarn` or `npm i`
 
 ## Testing
-`yarn test`
+`yarn test` or `npm run test`
 
 ## Usage
 require the index.js file with a relative path
