@@ -3,6 +3,7 @@ function that flattens nested arrays of arbitrary nesting levels
 
 ## Installation
 `git clone https://github.com/DoloMike/js-flatten-array.git`  
+`cd js-flatten-array`  
 `yarn` or `npm i`
 
 ## Testing
