@@ -1,0 +1,27 @@
+{
+  "name": "js-flatten-array",
+  "version": "1.0.0",
+  "description": "function that flattens nested arrays of arbitrary nesting levels",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/jasmine/bin/jasmine.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoloMike/js-flatten-array.git"
+  },
+  "keywords": [
+    "javascript",
+    "arrays",
+    "es6"
+  ],
+  "author": "Michael Roberts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DoloMike/js-flatten-array/issues"
+  },
+  "homepage": "https://github.com/DoloMike/js-flatten-array#readme",
+  "dependencies": {
+    "jasmine": "^3.3.0"
+  }
+}
