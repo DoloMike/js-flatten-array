@@ -13,4 +13,5 @@ function that flattens nested arrays of arbitrary nesting levels
 require the index.js file with a relative path
 
 `const flattenNestedArray = require('../index.js').flattenNestedArray`  
-`const flattened = flattenNestedArray([1, [2, 3]])`
+`flattenNestedArray([1, [2, 3]])`  
+`[1, 2, 3]`
